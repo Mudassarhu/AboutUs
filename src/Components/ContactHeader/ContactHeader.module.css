@@ -1,0 +1,8 @@
+.contact_section hr {
+    font-size: 48px;
+    font-weight: 500;
+    max-width: 80%;
+}
+.contact_section p {
+    font-weight: 500;
+}
